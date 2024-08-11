@@ -1,0 +1,90 @@
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family:'Harry Potter', sans-serif;
+    background-image: url(dfsfsfs.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.contenedor {
+   background-image: url(descarga.gif);
+   background-size: 100%;
+   padding: 100px;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+
+
+ h1 {
+    font-size: 60px;
+    color: rgb(36, 58, 153);
+
+}
+
+h2 {
+    color: #959a9c;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+h3 {
+    color: #959a9c;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+
+
+#menu {
+    text-align: center;
+    margin-top: 5% ;
+    margin-bottom: 3% ;
+
+    
+}
+
+.botonmenu {
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    color: #000000;
+    background-color: #1f2ca3;
+    border: 0;
+}
+
+#escudo{
+    border-radius: 50%;
+    width: 300px; 
+    display: block;
+    margin: auto;
+}
+
+.columna{
+    margin: auto;
+}
+
+#Miportafolio{
+    padding: 10% 25%;
+}
+
+
+
+p {
+    
+    border: 5px dashed #1C6EA4;
+    border-radius: 40px 40px 40px 40px;
+    position: center;
+ padding: 15px 30px;
+ font-weight: 500;
+ 
+ }
